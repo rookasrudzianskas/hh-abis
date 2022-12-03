@@ -1,0 +1,11 @@
+{
+  "name": "HH_TESTING",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rookasrudzianskas/hh-abis.git",
+  "author": "Rokas <rookas.rudzenskas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hardhat": "^2.12.3"
+  }
+}
